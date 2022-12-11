@@ -2,8 +2,7 @@
 
 ## RuckGames does:
 
-- Makes servers for alot of diffrent things(games, webs ecc..)
-- Helps peaple with coding
+- Games and kiwi birds maybe
 
 ### Connect with me:
 
